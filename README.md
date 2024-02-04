@@ -2,7 +2,7 @@ This project aims to provide technical support to my clients by allowing them to
 
 The technologies used and to be used in the project are as follows:
 
--Onion Architecture
+-Onion Architecture<br>
 -Mediator Design Pattern and MediatR Library
 -Repository Design Pattern
 -Entity Framework Core
